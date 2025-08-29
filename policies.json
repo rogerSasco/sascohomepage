@@ -48,6 +48,18 @@
                "scope": "machine",
                "source": "platform",
                "value": false
+            },
+            "ImportHomepage": {
+               "level": "mandatory",
+               "scope": "machine",
+               "source": "platform",
+               "value": false
+            },
+            "ShowHomeButton": {
+               "level": "mandatory",
+               "scope": "machine",
+               "source": "platform",
+               "value": true
             }
          }
       },
